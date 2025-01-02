@@ -7,8 +7,7 @@ This repo is where I dump (read: meticulously curate ✨) my solutions to LeetCo
 ## 📌 What’s Inside?  
 
 - **Languages**: Primarily **Java**, with occasional appearances by other languages if I’m feeling adventurous.  
-- **Problem Categories**: Arrays, Strings, Linked Lists, Trees, Graphs, DP—you name it.  
-- **Detailed Explanations**: Each solution comes with comments and sometimes even insights into my thought process (because debugging is therapy 😅).  
+- **Problem Categories**: Arrays, Strings, Linked Lists, Trees, Graphs, DP—you name it.    
 
 ## 🎯 Why This Repo?  
 
